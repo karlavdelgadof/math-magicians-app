@@ -42,6 +42,16 @@ Link will be displayed here soon...
 - Twitter: [@karlavdelgadof](https://twitter.com/karlavdelgadof)
 - LinkedIn: [Karla Delgado](https://www.linkedin.com/in/karla-delgado-613a32239/)
 
+## Project Milestones
+
+- Milestone 1: Setup. :gear: 
+- Milestone 2: Components. :hammer_and_wrench:
+- Milestone 3: Events. :hammer_and_wrench:
+- Milestone 3: Refactor with hooks (pair programming). :hammer_and_wrench:
+- Milestone 3: Full website. :hammer_and_wrench:
+- Milestone 3: Tests (pair programming). :hammer_and_wrench:
+- Milestone 3: Deploy. :hammer_and_wrench:
+
 
 ## 🤝 Contributing
 
