@@ -44,8 +44,8 @@ Link will be displayed here soon...
 
 ## Project Milestones
 
-- Milestone 1: Setup. :gear: 
-- Milestone 2: Components. :hammer_and_wrench:
+- Milestone 1: Setup. :heavy_check_mark:  
+- Milestone 2: Components. :gear:
 - Milestone 3: Events. :hammer_and_wrench:
 - Milestone 4: Refactor with hooks (pair programming). :hammer_and_wrench:
 - Milestone 5: Full website. :hammer_and_wrench:
