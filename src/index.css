@@ -54,10 +54,6 @@ header {
   height: 60%;
 }
 
-#calculator-container {
-  height: 50%;
-}
-
 #calculator {
   height: 100%;
   max-width: 380px;
@@ -85,6 +81,7 @@ header {
 .btn {
   font-size: 1rem;
   height: 65px;
+  width: 75px;
   border: 1px solid #c3c4ca;
   font-weight: 600;
   background-color: #e0e0e0;
@@ -92,6 +89,7 @@ header {
 
 .span-2 {
   grid-column: span 2;
+  width: 150px;
 }
 
 .orange {
