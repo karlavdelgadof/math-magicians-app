@@ -1,4 +1,3 @@
-/* eslint-disable react/prefer-stateless-function */
 import React from 'react';
 import Navigation from './components/navBar';
 import Calculator from './components/Calculator';
