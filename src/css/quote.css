@@ -1,0 +1,14 @@
+#quote {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  width: 70%;
+  font-size: 2.5rem;
+  line-height: 60px;
+  text-align: center;
+  font-style: italic;
+}
+
+#quote span {
+  font-weight: bolder;
+}

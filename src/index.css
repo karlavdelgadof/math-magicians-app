@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Indie+Flower&display=swap');
+
 * {
   box-sizing: border-box;
   margin: 0;
@@ -6,6 +8,7 @@
 
 body {
   height: 100vh;
+  font-family: 'Architects Daughter', cursive;
 }
 
 #root {
@@ -24,7 +27,10 @@ header {
   justify-content: center;
   width: 100%;
   padding: 2rem 0;
-  background-color: #eee;
+  background-color: #fff6e5;
+  font-size: 1.5rem;
+  font-weight: bolder;
+  border-bottom: 3px solid #000;
 }
 
 #navbar {
@@ -36,69 +42,105 @@ header {
 
 #nav-links {
   display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
-#nav-links li {
+#nav-links a {
+  display: flex;
+  flex-direction: column;
   padding: 0 1rem;
-  list-style-type: none;
+  text-decoration: none;
+  color: #000;
+  font-weight: 600;
 }
 
-#nav-links li a {
-  text-decoration: none;
+#nav-links a:hover {
+  color: #cfa9ff;
+}
+
+#nav-links a:hover::after {
+  content: "";
+  align-self: center;
+  width: 20px;
+  height: 5px;
+  background-color: #cfa9ff;
 }
 
 #main-section {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 60%;
+  background-image: url('../public/bg-calc1.png');
+  height: 100%;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
 }
 
 #calculator {
   height: 100%;
   max-width: 380px;
-  background: #eee;
+  background: #fff6e5;
+  border: 3px solid #000;
+  padding: 1.5rem;
+  border-radius: 20px;
 }
 
 #calc-display {
-  background-color: #858693;
-  color: white;
+  background-color: #cfa9ff;
+  color: #000;
   font-size: 2em;
-  border: 0;
   padding: 0.3em;
   text-align: right;
   width: 100%;
   height: 100px;
   font-weight: 600;
+  margin-bottom: 1.5rem;
+  border: 3px solid #000;
+  border-radius: 20px 20px 10px 11px;
 }
 
 #calculator-buttons {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
+  gap: 0.7rem;
   border: 0;
 }
 
 .btn {
-  font-size: 1rem;
+  font-size: 1.5rem;
   height: 65px;
   width: 75px;
-  border: 1px solid #c3c4ca;
+  border-left: 4px solid #000;
+  border-bottom: 4px solid #000;
+  border-right: 1px solid #000;
+  border-top: 1px solid #000;
   font-weight: 600;
-  background-color: #e0e0e0;
+  font-family: inherit;
+  background-color: #fff6e5;
+  color: #000;
+  border-radius: 8px;
 }
 
 .span-2 {
   grid-column: span 2;
-  width: 150px;
+  width: 165px;
+}
+
+.green {
+  background-color: #bbef6f;
 }
 
 .orange {
-  background-color: #f5913e;
+  background-color: #fa796d;
 }
 
 #footer {
   display: flex;
   justify-content: center;
   padding: 2rem;
-  background-color: #eee;
+  font-size: 1.5rem;
+  background-color: #cfa9ff;
+  border-top: 3px solid #000;
 }

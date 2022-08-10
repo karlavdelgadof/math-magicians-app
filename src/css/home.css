@@ -1,0 +1,13 @@
+#home {
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  margin-top: 10rem;
+  gap: 1.5rem;
+  width: 70%;
+  font-size: 1.5rem;
+}
+
+#home h1 {
+  font-size: 3rem;
+}
