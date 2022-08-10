@@ -47,8 +47,8 @@ Link will be displayed here soon...
 - Milestone 1: Setup. :heavy_check_mark:  
 - Milestone 2: Components. :heavy_check_mark: 
 - Milestone 3: Events. :heavy_check_mark:
-- Milestone 4: Refactor with hooks. :gear:
-- Milestone 5: Full website. :hammer_and_wrench:
+- Milestone 4: Refactor with hooks. :heavy_check_mark:
+- Milestone 5: Full website. :gear:
 - Milestone 6: Tests (pair programming). :hammer_and_wrench:
 - Milestone 7: Deploy. :hammer_and_wrench:
 
