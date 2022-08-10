@@ -1,6 +1,6 @@
 import React from 'react';
+import { Outlet } from 'react-router-dom';
 import Navigation from './components/navBar';
-import Calculator from './components/Calculator';
 import Footer from './components/footer';
 
 function App() {
@@ -10,7 +10,7 @@ function App() {
         <Navigation />
       </header>
       <main id="main-section">
-        <Calculator />
+        <Outlet />
       </main>
       <Footer />
     </div>
