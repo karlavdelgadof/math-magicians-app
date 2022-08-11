@@ -11,6 +11,7 @@ function Navigation() {
         <NavLink to="/quote" className="link">Quote</NavLink>
       </div>
     </nav>
+
   );
 }
 
