@@ -16,9 +16,15 @@
 - **Webpack:** Bundler form JavaScript files for usage in a browser.
 - **REACT JS:** JS library used for the basic structure.
 
+## Preview :eye_speech_bubble:
+
+![](ss-mma.png)
+
 ## Live Demo :arrow_forward:
 
-Link will be displayed here soon...
+[Math Magicians](https://math-magicians-kd.netlify.app/)
+
+
 
 ## Set Up Guide :page_facing_up: 
 
@@ -55,8 +61,8 @@ Link will be displayed here soon...
 - Milestone 3: Events. :heavy_check_mark:
 - Milestone 4: Refactor with hooks. :heavy_check_mark:
 - Milestone 5: Full website. :heavy_check_mark:
-- Milestone 6: Tests (pair programming). :gear:
-- Milestone 7: Deploy. :hammer_and_wrench:
+- Milestone 6: Tests (pair programming). :heavy_check_mark:
+- Milestone 7: Deploy. :heavy_check_mark:
 
 
 ## 🤝 Contributing

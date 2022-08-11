@@ -78,11 +78,25 @@ header {
   background-repeat: no-repeat;
 }
 
+#calculator-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1.5rem;
+}
+
+#calculator-container h1 {
+  font-size: 2rem;
+}
+
 #calculator {
   height: 100%;
   max-width: 380px;
   background: #fff6e5;
-  border: 3px solid #000;
+  border-right: 3px solid #000;
+  border-top: 3px solid #000;
+  border-bottom: 5px solid #000;
+  border-left: 5px solid #000;
   padding: 1.5rem;
   border-radius: 20px;
 }
