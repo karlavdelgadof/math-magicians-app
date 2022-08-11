@@ -15,6 +15,7 @@ function Calculator() {
 
   return (
     <section id="calculator-container">
+      <h1>Try some numbers!</h1>
       <div id="calculator">
         <div id="calc-display">
           { state.next || state.operation || state.total || state.err || 0}
