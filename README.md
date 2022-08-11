@@ -34,13 +34,19 @@ Link will be displayed here soon...
 
 6. You can use to make any mathematical operations/calculations.
 
-## Author :writing_hand: 
+## Authors :writing_hand:  and Collaborators  :busts_in_silhouette:
 
-:woman_technologist:  **Karla Delgado**
+:woman_technologist:  **Karla Delgado** :writing_hand: 
 
 - GitHub: [@karlavdelgadof](https://github.com/karlavdelgadof)
 - Twitter: [@karlavdelgadof](https://twitter.com/karlavdelgadof)
 - LinkedIn: [Karla Delgado](https://www.linkedin.com/in/karla-delgado-613a32239/)
+
+:man_technologist: **Mumenya Nyamu** :busts_in_silhouette: 
+
+- GitHub: [@Nyame-Wolf](https://github.com/Nyame-Wolf)
+- Twitter: [@mumenyam](https://twitter.com/mumenyam)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/mumenya-nyamu-web-designer-data-enthusiast/) 
 
 ## Project Milestones
 
@@ -48,8 +54,8 @@ Link will be displayed here soon...
 - Milestone 2: Components. :heavy_check_mark: 
 - Milestone 3: Events. :heavy_check_mark:
 - Milestone 4: Refactor with hooks. :heavy_check_mark:
-- Milestone 5: Full website. :gear:
-- Milestone 6: Tests (pair programming). :hammer_and_wrench:
+- Milestone 5: Full website. :heavy_check_mark:
+- Milestone 6: Tests (pair programming). :gear:
 - Milestone 7: Deploy. :hammer_and_wrench:
 
 
